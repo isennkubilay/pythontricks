@@ -1,1 +1,3 @@
-# pythontricks
+# pythontricks 
+
+Python exercises 
